@@ -12,7 +12,7 @@ for voice search click "V" and speak to your microphone.
 * Lazy loads all images.
 * Displays relative time from last search query.
 
-### Usage
+### How to use
 
 Launch it on any local server.
 
