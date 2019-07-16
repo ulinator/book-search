@@ -7,10 +7,10 @@ for voice search click "V" and speak to your microphone.
 
 ### Additional features
 
-Detects user's preferred language.
-Detects if the page is active or in the background.
-Lazy loads all images.
-Displays relative time from last search query.
+* Detects user's preferred language.
+* Detects if the page is active or in the background.
+* Lazy loads all images.
+* Displays relative time from last search query.
 
 ### Disclaimers 
 
